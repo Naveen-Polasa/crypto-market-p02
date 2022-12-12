@@ -1,4 +1,4 @@
-# project-02-crypto-market
+# crypto-market
 
 
 ### Live Site URL: [Visit here 🚀 ](https://crypto-market-p02.netlify.app/)
