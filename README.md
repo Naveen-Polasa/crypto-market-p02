@@ -1,7 +1,7 @@
 # project-02-crypto-market
 
 
-Live Site URL: [Visit here 🚀 ](https://crypto-market-p02.netlify.app/)
+### Live Site URL: [Visit here 🚀 ](https://crypto-market-p02.netlify.app/)
 
 ### Screenshot
 
